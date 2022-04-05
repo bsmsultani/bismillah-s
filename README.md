@@ -14,12 +14,14 @@
   <tr>
     <td> IFB102 - Introduction to Computer Systems </td>
     <td> 
+      <small>
       "This is an introductory computer science unit concerning computer systems, in particular how modern computer systems work, how they are structured,
       and how they operate. Computer systems are ubiquitous and yet they are unlike any other man-made product or system; they appear magical and are
       notoriously difficult to work with and manage in projects. This unit’s goal is to demystify computer systems so students can appreciate, understand
       and utilise computer systems in their subsequent learning, and effectively participate in the IT industry. Students will study computers, networks,
       operating systems and the Web. Raspberry Pi computers will be used throughout the unit and at the end students will build their own small computer
       system using a Raspberry Pi." - https://www.qut.edu.au/study/unit?unitCode=IFB102
+      </small>
     </td>
     <td> Pending </td>
   </tr>
