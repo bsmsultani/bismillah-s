@@ -10,6 +10,8 @@
     <th> Result </th>
   </tr>
   <tr>
+    <th colspan="3"> Semester 1 2022 </th> 
+  <tr>
     <td> IFB102 - Introduction to Computer Science </td>
     <td> Description </td>
     <td> Result </td>
